@@ -1,4 +1,6 @@
 # REST calls 
+sudo apt update 
+sudo apt install groovy default-jdk
 export JAVA_OPTS=--illegal-access=deny 
 wget https://raw.githubusercontent.com/jai28102022/learn-groovy/main/rest_get.groovy
 wget https://raw.githubusercontent.com/jai28102022/learn-groovy/main/rest_post.groovy
